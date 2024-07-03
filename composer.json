@@ -1,6 +1,6 @@
 {
     "name": "mxms/autocomplete",
-    "description": "A Laravel Nova field.",
+    "description": "A custom autocomplete field for Laravel Nova 4.",
     "keywords": [
         "laravel",
         "nova"
